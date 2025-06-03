@@ -1,0 +1,2 @@
+# bike-share-predictive-modeling
+This project builds a robust data ingestion and preprocessing pipeline for Toronto's Bike Share ridership data using the official CKAN API. It extracts, cleans, and consolidates historical trip data from a variety of formats (CSV, XLSX, nested ZIPs) into a unified dataset. The pipeline handles inconsistent encodings, nested archives, and filters only relevant files for each year.
